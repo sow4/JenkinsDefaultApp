@@ -10,7 +10,7 @@ class CalcTest {
 
         int result = calc.add(2,3);
 
-        assertEquals(5, result);
+        assertEquals(6, result);
     }
 
     @Test
