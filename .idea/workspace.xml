@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04021163-4925-4e4d-af5d-da3228b96b74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,21 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in JenkinsDefaultApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsDefaultApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in JenkinsDefaultApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
