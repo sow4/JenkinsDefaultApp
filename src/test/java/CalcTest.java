@@ -21,4 +21,13 @@ class CalcTest {
 
         assertEquals(3, result);
     }
+
+    @Test
+    void shouldProperMultiply() {
+        Calc calc = new Calc();
+
+        int result = calc.sub(2,3);
+
+        assertEquals(6, result);
+    }
 }
